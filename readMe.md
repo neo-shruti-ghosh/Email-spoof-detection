@@ -1,4 +1,4 @@
-#Approach
+# Approach
 
 - Collect a dataset of email messages, including both legitimate and spoofed emails. You can use publicly available datasets or create your own by generating spoofed emails.
 
