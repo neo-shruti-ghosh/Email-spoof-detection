@@ -12,4 +12,9 @@
 
 - Finally, you can test the model's performance on new email messages to evaluate its effectiveness in detecting spoofed emails.
 
-Overall, building an AIML project on email spoof detection can be a challenging task, but it can provide an effective solution to a real-world problem. Good luck!
+# 1. Collecting Dataset
+
+- We used public datasets
+- This time we used the dataset Enron Email Dataset to train our model
+- This is a 1.4GB dataset with legit as well as spoofed emails
+- The folder containing the dataset is named as "DataSet"
