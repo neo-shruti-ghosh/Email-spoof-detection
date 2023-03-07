@@ -66,9 +66,9 @@ The app will run on a localhost as specified by the terminal <br>
 
 # Screenshots
 
-- Checking spam
-![image](https://user-images.githubusercontent.com/51224831/223398446-694fb5bb-36f5-4af4-9427-ae43ee862a41.png)
-- Checking ham
+- Checking spam <br>
+![image](https://user-images.githubusercontent.com/51224831/223398446-694fb5bb-36f5-4af4-9427-ae43ee862a41.png) <br>
+- Checking ham <br> 
 ![image](https://user-images.githubusercontent.com/51224831/223398823-1085dc3e-0733-4221-8c83-7b5a8dbd50b2.png)
 
 
