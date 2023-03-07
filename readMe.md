@@ -57,7 +57,7 @@ Steps to train the model using logistic regression
 
 Overall, training a logistic regression model involves data preparation, splitting data, model selection, model training, model evaluation, model optimization, and model deployment.
 
-#Installation
+# Installation
 
 - copy the following codes into your terminal where the project is saved:
 -- pip install Flask
