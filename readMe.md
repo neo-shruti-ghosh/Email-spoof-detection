@@ -59,7 +59,17 @@ Overall, training a logistic regression model involves data preparation, splitti
 
 # Installation
 
-- copy the following codes into your terminal where the project is saved:
--- pip install Flask
--- python app.py
-The app will run on a localhost as specified by the terminal
+- copy the following codes into your terminal where the project is saved: <br>
+-- pip install Flask <br>
+-- python app.py <br>
+The app will run on a localhost as specified by the terminal <br>
+
+# Screenshots
+
+- Checking spam
+![image](https://user-images.githubusercontent.com/51224831/223398446-694fb5bb-36f5-4af4-9427-ae43ee862a41.png)
+- Checking ham
+![image](https://user-images.githubusercontent.com/51224831/223398823-1085dc3e-0733-4221-8c83-7b5a8dbd50b2.png)
+
+
+
